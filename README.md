@@ -1,2 +1,6 @@
 # Detection-of-State
-Windows 7 Service
+Windows 7 Service made to run on a client PC.
+
+This service detects the current session state and writes log information in a .txt file.
+
+Must restart PC after installing
