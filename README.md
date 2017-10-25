@@ -1,4 +1,4 @@
-# Detection-of-State
+# OnlineChecker
 
-* Windows 7 service runs every 60 sec and detects the current session state and writes log information in a .txt file.
-
+* Windows 7 Service that determines if a user is currently using their computer by
+checking if the lock screen is running. Saves output logs to a text file, runs every 60 seconds.
